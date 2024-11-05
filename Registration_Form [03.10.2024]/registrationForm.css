@@ -14,7 +14,7 @@ h1, p{
 /* font family is added */
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: yellow;
+    background-color: grey;
   }
   
   form {
